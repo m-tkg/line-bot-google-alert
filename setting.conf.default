@@ -1,0 +1,5 @@
+$target_mid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$feed_url = 'https://www.google.com/alerts/feeds/xxxxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxx';
+$channel_id = 'xxxxxxxxxx';
+$channel_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$mid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
